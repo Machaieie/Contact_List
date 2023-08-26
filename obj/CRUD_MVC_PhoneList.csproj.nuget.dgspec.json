@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\EDWIN-OLOGA\\source\\repos\\CRUD_MVC_PhoneList\\CRUD_MVC_PhoneList.csproj": {}
+    "C:\\Users\\EDWIN-OLOGA\\source\\repos\\CRUD_MVC_PhoneList\\CRUD_MVC_PhoneList.csproj": {}
   },
   "projects": {
-    "c:\\Users\\EDWIN-OLOGA\\source\\repos\\CRUD_MVC_PhoneList\\CRUD_MVC_PhoneList.csproj": {
+    "C:\\Users\\EDWIN-OLOGA\\source\\repos\\CRUD_MVC_PhoneList\\CRUD_MVC_PhoneList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\CRUD_MVC_PhoneList\\CRUD_MVC_PhoneList.csproj",
+        "projectUniqueName": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\CRUD_MVC_PhoneList\\CRUD_MVC_PhoneList.csproj",
         "projectName": "CRUD_MVC_PhoneList",
-        "projectPath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\CRUD_MVC_PhoneList\\CRUD_MVC_PhoneList.csproj",
+        "projectPath": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\CRUD_MVC_PhoneList\\CRUD_MVC_PhoneList.csproj",
         "packagesPath": "C:\\Users\\EDWIN-OLOGA\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\CRUD_MVC_PhoneList\\obj\\",
+        "outputPath": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\CRUD_MVC_PhoneList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EDWIN-OLOGA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,19 +14,19 @@ namespace CRUD_MVC_PhoneList.Models
 
         [Column("Name")]
         [Display(Name = "Nome")]
-        [Required(ErrorMessage = "{0} is required")]
+        [Required(ErrorMessage = "O {0} é obrigatório")]
         public String Name { get; set; }
 
         [Column("Email")]
         [Display(Name = "Email")]
-        [Required (ErrorMessage ="{0} is required")]
-        [EmailAddress(ErrorMessage ="invalid email")]
+        [Required (ErrorMessage = " O {0} é obrigatório")]
+        [EmailAddress(ErrorMessage = "Email inválido")]
         public string Email { get; set; }
 
         [Column("Number")]
         [Display(Name = "Número")]
-        [Required(ErrorMessage = "{0} is required")]
-        [Range(800000000,long.MaxValue,ErrorMessage ="Number invalid")]
+        [Required(ErrorMessage = "O {0} é obrigatório")]
+        [Range(800000000,long.MaxValue,ErrorMessage ="Número inválido")]
         public long Number { get; set; }
     }
 }
