@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD_MVC_PhoneList.props" />
+</Project>
