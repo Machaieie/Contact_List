@@ -21,7 +21,7 @@ Welcome to my Phonebook Application built using ASP.NET MVC with C#! This applic
    - Clone this repository to your local development environment.
 
 3. **Database Configuration:**
-   - The application uses a database to store contacts. Make sure to configure the connection in `Web.config`.
+   - The application uses a database to store contacts. Make sure to configure the connection in `Program.cs`.
 
 4. **Running the Application:**
    - Open the project in your preferred IDE (such as Visual Studio).
